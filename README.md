@@ -1,4 +1,4 @@
-# Portfolio Web Application
+<!-- # Portfolio Web Application
 
 This is a portfolio web application built using HTML and CSS. It showcases your work, skills, and provides a way for potential clients or employers to learn more about you and your projects. <a href="https://harshkashyapportfolio.netlify.app/">View the website</a>
 
@@ -39,4 +39,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 ![Certifications](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS3.png)
 ![Extra](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS4.png)
 ![Contact](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/SS5.png)
-
+ -->
